@@ -1,0 +1,19 @@
+#cancella {
+    padding: 3px 15px;
+    background-color: #006eff;
+    color: white;
+    border: solid 3px white;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: auto;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+}
+
+#puntoLista {
+    width: 100%;
+}
